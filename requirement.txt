@@ -1,0 +1,13 @@
+asyncpg
+click
+databases
+fastapi
+gunicorn
+h11
+psycopg2-binary
+pydantic
+SQLAlchemy
+starlette
+uvicorn
+websockets
+pymysql
